@@ -1,5 +1,8 @@
-Esta es la tarea de Steven Paredes Castillo.
-Tarea 1: Página WEB Personal.
-Espero le guste.
+Esta es mi pagina web de  
+Soy Steven Paredes Castillo.  
+Espero les guste.   
 
-![hay esta la captura de pantalla](tarea1.png)
+![captura de la pagina web](1-ft.png)  
+![captura de la pagina web](2-ft.png)  
+![captura de la pagina web](3-ft.png)    
+![captura de la pagina web](4-ft.png)    
