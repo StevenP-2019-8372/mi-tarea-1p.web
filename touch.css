@@ -37,7 +37,7 @@
     }
     100%{
         opacity: 0;
-    }    
+    }
 }
 .box h2 {
     font-size: 7rem;
@@ -82,7 +82,7 @@
             100% 100%,
             0% 100%
         );
-    }    
+    }
 }
 .link{
     display:flex ;

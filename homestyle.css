@@ -26,7 +26,7 @@ body{
     height: 100%;
     transition: all 500ms ease-out;
     mix-blend-mode:difference;
-    filter: grayscale(100%);  
+    filter: grayscale(100%);
 }
 .box-u{
     position: relative;
@@ -40,18 +40,14 @@ body{
     justify-content: center;
     padding-top: 8%;
     margin-bottom: 4%;
-    
-  
 }
 .box2 a{
     position: relative;
     color: #8c5e5e;
     text-transform: uppercase;
     text-decoration: none;
-  
 }
 .box2 span{
-    
     background:#8c5e5e;
     color: #000;
     letter-spacing: 0.1em;
@@ -60,8 +56,6 @@ body{
     padding: 10px 30px;
     transition: 0.5s;
     border-radius: 20px;
-    
-  
 }
 .box2 a :hover{
     background:var(--clr);
@@ -72,11 +66,8 @@ body{
     color: #8c5e5e;
 }
 @media only screen and (min-width: 385px) and (max-width: 812px) {
-    .box{    
-      padding-top: 60px;
-      padding-bottom: 60px;
+    .box{
+        padding-top: 60px;
+        padding-bottom: 60px;
     }
-  
 }
-
- 

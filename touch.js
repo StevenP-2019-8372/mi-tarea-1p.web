@@ -1,6 +1,6 @@
 const box = document.querySelector('.box')
 
-const createRepple =(e)=>{
+const createRipple =(e)=>{
     let ripple =document.createElement('span')
     let x = e.clientX
     let y=e.clientY
@@ -12,4 +12,4 @@ const createRepple =(e)=>{
         ripple.remove()
     },5000)
 }
-box.addEventListener('click',createRepple)
+box.addEventListener('click',createRipple)
